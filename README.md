@@ -1,4 +1,4 @@
-# 👋 HI, I'm Aditya Bajpau
+# 👋 HI, I'm Aditya Bajpai
 
 - 👀 I’m interested in Data Science , Machine Learning and backend development
 - 🌱 I’m currently learning Neural Networks
