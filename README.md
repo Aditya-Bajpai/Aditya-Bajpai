@@ -1,6 +1,6 @@
 # 👋 HI, I'm Aditya Bajpai
 
-- 👀 I’m interested in Data Science , Machine Learning and backend development
+- 👀 I’m interested in Data Analysis , Machine Learning , backend development and NLP
 - 🌱 I’m currently learning Neural Networks
 
 <!---
