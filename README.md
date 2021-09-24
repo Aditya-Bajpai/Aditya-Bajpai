@@ -1,6 +1,6 @@
 # 👋 HI, I'm Aditya Bajpai
 
-- 👀 I’m interested in Data Analysis , Machine Learning , backend development and NLP
+- 👀 I’m interested in Data Analysis , Machine Learning , backend development, computer vision and NLP
 - 🌱 I’m currently trying to work on some ML based projects.
 - ✨ Primary language: Python
 <!---
